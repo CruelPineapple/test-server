@@ -2,3 +2,27 @@
 { test: '1' }
 { test: '1' }
 { test: '1' }
+连接成功 id 16
+[ RowDataPacket { test_id: '00000', test_name: 'test0' } ]
+{}
+{}
+{ testing: '111' }
+{ testing: '111' }
+连接成功 id 21
+[ RowDataPacket { test_id: '00000', test_name: 'test0' } ]
+id:00000
+{ testing: '222' }
+{ testing: '222' }
+{ testing: '222' }
+{ testing: '3' }
+{}
+{ foo: 'bar' }
+{ byUID: '6001', byTemper: '28.0', byHum: '61.0' }
+{ byUID: '6001', byTemper: '28.0', byHum: '61.0' }
+{ byUID: '6001', byTemper: '28.0', byHum: '61.0' }
+{ byUID: '6001', byTemper: '28.0', byHum: '61.0' }
+{ byUID: '6001', byTemper: '28.0', byHum: '62.0' }
+{ foo: 'bar' }
+连接成功 id 50
+[ RowDataPacket { test_id: '00000', test_name: 'test0' } ]
+id:00000
